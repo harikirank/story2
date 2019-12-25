@@ -1,1 +1,2 @@
 this is master commit
+i am editing it in another branch
