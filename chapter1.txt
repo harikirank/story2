@@ -1,1 +1,2 @@
-this is master commit
+this is master commit in another branch
+i am editing it in another branch
